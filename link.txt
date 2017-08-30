@@ -1,2 +1,2 @@
 https://git-scm.com/book/vi/v1
-- Rolback
+http://nguyenhung5188.blogspot.com/2014/09/initialization-parmeter-in-servlet.html
